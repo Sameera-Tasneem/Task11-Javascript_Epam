@@ -1,2 +1,0 @@
-# Muskan-Javascript
-EPAM TASK
